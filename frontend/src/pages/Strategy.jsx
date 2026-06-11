@@ -3,20 +3,20 @@ import SectionReveal from '../components/ui/SectionReveal'
 
 const strategies = [
   {
-    title: 'Technology Ventures',
-    desc: 'Investing in transformative technologies: AI, fintech, climate tech, and deep tech innovation with proven founders.',
+    title: 'Concentrated Portfolio',
+    desc: 'We take a focused approach — deploying capital into a single portfolio company, Prime Alpha Securities, and supporting its growth across multiple verticals.',
   },
   {
     title: 'Real Estate',
-    desc: 'Premium residential and commercial properties with strategic location and value-add development potential.',
+    desc: 'Premium residential, commercial, and mixed-use properties globally — with a focus on strategic locations and value-add development potential.',
   },
   {
-    title: 'Financial Innovation',
-    desc: 'Alternative assets, structured products, and emerging financial instruments with asymmetric risk-reward profiles.',
+    title: 'Fintech & Financial Services',
+    desc: 'Innovative financial technology platforms alongside traditional financial companies — asset managers, wealth platforms, specialty finance, and capital markets businesses.',
   },
   {
-    title: 'Deal Execution',
-    desc: 'Active ownership approach: strategic guidance, operational improvements, and value creation throughout the holding period.',
+    title: 'Global Reach',
+    desc: 'Active across multiple geographies — deploying capital where opportunity meets strong fundamentals, with a locally-informed investment approach.',
   },
 ]
 

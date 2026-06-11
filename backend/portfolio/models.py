@@ -1,8 +1,8 @@
 from django.db import models
 
 SECTOR_CHOICES = [
-    ('tech', 'Technology'),
     ('real_estate', 'Real Estate'),
+    ('fintech', 'Fintech'),
     ('finance', 'Finance'),
 ]
 

@@ -14,8 +14,8 @@ export default function Portfolio() {
 
   const sectors = [
     { value: null, label: 'All' },
-    { value: 'tech', label: 'Technology' },
     { value: 'real_estate', label: 'Real Estate' },
+    { value: 'fintech', label: 'Fintech' },
     { value: 'finance', label: 'Finance' },
   ]
 

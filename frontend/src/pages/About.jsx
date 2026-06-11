@@ -3,10 +3,10 @@ import SectionReveal from '../components/ui/SectionReveal'
 
 export default function About() {
   const paragraphs = [
-    'Founded by Johan A Botouli, Bib Holdings specializes in identifying and executing high-value deals across technology, real estate, and finance.',
-    'With a focus on uncovering undervalued opportunities with strong growth potential, we bring strategic capital and operational expertise to unlock value.',
-    'Our portfolio spans emerging technologies, premium real estate assets, and innovative financial instruments—each selected for its ability to generate sustainable, diversified returns.',
-    'We believe in being more than passive investors. We partner with founders and leaders to build, scale, and transform their ventures into industry leaders.',
+    'Bib Holdings Limited is an LTD that invests in real estate, fintechs, financial companies, and other high-growth sectors globally.',
+    'Our portfolio company, Prime Alpha Securities, operates across the financial services ecosystem — leveraging deep market expertise to identify and execute on strategic opportunities.',
+    'We take a concentrated approach: deploying capital into businesses where we can provide not just funding, but strategic direction and operational support.',
+    'Based on a structure of complementary holding companies, Prime Alpha Securities is positioned to execute across multiple verticals within the financial landscape.',
   ]
 
   return (

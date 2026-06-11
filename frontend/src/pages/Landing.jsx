@@ -55,7 +55,7 @@ export default function Landing() {
               fontWeight: 600,
             }}
           >
-            High-value deals. Diversified returns.
+            Prime Alpha Securities — Our Portfolio Company
           </p>
         </div>
 

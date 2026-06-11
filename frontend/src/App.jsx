@@ -114,8 +114,8 @@ function Footer() {
         textAlign: 'center',
       }}
     >
-      <p style={{ color: colors.gold, fontWeight: 600 }}>© 2026 Bib Holdings. All rights reserved.</p>
-      <p style={{ marginTop: 8, color: colors.blueLight }}>Founded by Johan A Botouli</p>
+      <p style={{ color: colors.gold, fontWeight: 600 }}>© 2026 Bib Holdings Limited. All rights reserved.</p>
+      <p style={{ marginTop: 8, color: colors.blueLight }}>Bib Holdings Limited — Global Investments</p>
     </footer>
   )
 }
