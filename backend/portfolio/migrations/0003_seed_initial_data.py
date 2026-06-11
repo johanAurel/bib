@@ -8,7 +8,7 @@ def seed_data(apps, schema_editor):
     Investment.objects.create(
         company_name='Prime Alpha Securities',
         sector='finance',
-        year_acquired=2024,
+        year_acquired=2026,
         status='active',
         description='Prime Alpha Securities is a financial services firm operating across multiple verticals within the global financial landscape. As the primary portfolio company of Bib Holdings Limited, it leverages a structure of complementary holding companies to execute on strategic opportunities in securities, capital markets, and financial services.',
         headline_metric='Strategic Financial Services Platform',

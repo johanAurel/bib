@@ -3,7 +3,7 @@ import SectionReveal from '../components/ui/SectionReveal'
 
 export default function About() {
   const paragraphs = [
-    'Bib Holdings Limited is an LTD that invests in real estate, fintechs, financial companies, and other high-growth sectors globally.',
+    'Bib Holdings Limited is a recently incorporated LTD that invests in real estate, fintechs, financial companies, and other high-growth sectors globally.',
     'Our portfolio company, Prime Alpha Securities, operates across the financial services ecosystem — leveraging deep market expertise to identify and execute on strategic opportunities.',
     'We take a concentrated approach: deploying capital into businesses where we can provide not just funding, but strategic direction and operational support.',
     'Based on a structure of complementary holding companies, Prime Alpha Securities is positioned to execute across multiple verticals within the financial landscape.',
